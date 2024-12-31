@@ -1,5 +1,5 @@
-Analysis of Inflation Rates and Exchange Rates: India and USA
-
+**Analysis of Inflation Rates and Exchange Rates: India and USA
+**
 Introduction
 
 This report analyzes the relationship between inflation rates and exchange rates between India and the United States. Using data visualized in Power BI and documented insights, we aim to understand the trends, deviations, and their implications over several decades.
