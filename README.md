@@ -57,7 +57,6 @@ This report analyzes the relationship between inflation rates and exchange rates
 
 ## Appendix
 - **Data Tables:** Comprehensive numerical data for inflation rates, exchange rates, and deviations.
-- **Power BI Visuals:** Screenshots and key findings.
 
 ---
 
